@@ -11,7 +11,7 @@
 
 
 ✅ Skills: </br>
-    <img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
+    <pre><p><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
     </n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
     HTML</br>
     <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
@@ -22,7 +22,7 @@
     ANGULAR</br>
     <img alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
     SQLITE</br>
-
+    </p></pre>
 🎯TO-DO
 - <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. 
 
