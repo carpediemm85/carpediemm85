@@ -10,7 +10,7 @@
 </br>
 <a href="https://www.linkedin.com/in/rustam-abbaszade-08b3671b4/">
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>LINKEDIN</br>
-</a></br>
+</a>
 <a href = "mailto: rustamunnec@gmail.com">Send Email</a></br>
 
 
