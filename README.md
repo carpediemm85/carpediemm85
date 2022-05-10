@@ -6,7 +6,9 @@
 
 🎓 I studying in University (3/4). 💻 My major is Mechatronic and robotic engineering. 🔰 I also freelancer web developer...
 
-📬 LINKS:</br>
+<a href="www.linkedin.com/in/rustam-abbaszade-08b3671b4
+">📬 LINKS:</a>
+</br>
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>LINKEDIN (DJANGO)</br>
 
 ✅ Skills: </br>
