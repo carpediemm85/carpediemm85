@@ -12,7 +12,7 @@
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>  <a href = "mailto: rustamunnec@gmail.com">  📧 </a></br>
 
 
-✅ Skills: </br>
+✅ Languages and Tools: </br>
     <pre><p><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
     </n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
     HTML</br>
