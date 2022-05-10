@@ -14,6 +14,8 @@
 
 ✅ Languages and Tools: </br>
     <pre><p><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
+    <img alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
+    SQLITE</br>
     </n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
     HTML</br>
     <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
@@ -22,8 +24,6 @@
     JS</br>
     <img alt="Tensorflow" width="15px" src="https://user-images.githubusercontent.com/71736644/167723709-5618ce22-36f7-4d45-a548-621aea552f11.png"/>
     ANGULAR</br>
-    <img alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
-    SQLITE</br>
     </p></pre>
 🎯TO-DO
 - <pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot and trying push some repos. 
