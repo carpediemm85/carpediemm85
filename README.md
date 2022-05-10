@@ -11,7 +11,7 @@
 📬 HOW TO REACH ME:</s><a href="https://www.linkedin.com/in/rustam-abbaszade-08b3671b4/">
 <img alt="Tensorflow" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>  <a href = "mailto: rustamunnec@gmail.com"><img alt="Tensorflow" width="30px" src="https://pngimg.com/uploads/email/email_PNG12.png"/></a></br>
 
-
+<pre>
 ✅ Languages and Tools: </br>
     <pre><p><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
     <img alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
@@ -24,7 +24,7 @@
     JS</br>
     <img alt="Tensorflow" width="15px" src="https://user-images.githubusercontent.com/71736644/167723709-5618ce22-36f7-4d45-a548-621aea552f11.png"/>
     ANGULAR</br>
-    </p></pre>
+    </p></pre></pre>
 🎯TO-DO
 - <pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot and trying push some repos. 
 
