@@ -24,7 +24,7 @@
     SQLITE</br>
     </p></pre>
 🎯TO-DO
-- <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. 
+- <pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. 
 
 </br></br>
 <img alt="Tensorflow" width="350px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
