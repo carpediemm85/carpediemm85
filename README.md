@@ -9,7 +9,7 @@
 🎓 I studying in University (3/4). 💻 My major is Mechatronic and robotic engineering. 🔰 I also freelancer web developer...
 
 📬 HOW TO REACH ME:</s><a href="https://www.linkedin.com/in/rustam-abbaszade-08b3671b4/">
-<img alt="Tensorflow" width="15px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>  <a href = "mailto: rustamunnec@gmail.com">  📧 </a></br>
+<img alt="Tensorflow" width="20px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>  <a href = "mailto: rustamunnec@gmail.com"><img alt="Tensorflow" width="20px" src="https://pngimg.com/uploads/email/email_PNG12.png"/></a></br>
 
 
 ✅ Languages and Tools: </br>
