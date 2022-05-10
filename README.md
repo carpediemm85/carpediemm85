@@ -1,5 +1,5 @@
 ## Hi, i'm Rustam. 👋
-<img alt="Tensorflow" width="1000px" src="https://user-images.githubusercontent.com/71736644/167738521-17777663-42cc-4549-8ea1-90cc80c5da25.png"/>
+<img alt="Tensorflow" width="1000px" src="https://user-images.githubusercontent.com/71736644/167738938-e4ac3010-e52e-42a8-a5d1-3e53a9c9b481.png"/>
 </br></br></br>
 <img align='right' alt="Tensorflow" width="280px" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
     </br>
