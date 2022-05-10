@@ -1,4 +1,6 @@
 ## Hi, i'm Rustam. 👋
+<img alt="Tensorflow" width="1000px" src="https://user-images.githubusercontent.com/71736644/167738521-17777663-42cc-4549-8ea1-90cc80c5da25.png"/>
+</br></br></br>
 <img align='right' alt="Tensorflow" width="280px" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
     </br>
     <img alt="Tensorflow" width="20px" src="https://user-images.githubusercontent.com/71736644/167723157-014d57a2-1367-472a-91a7-fd16b9372183.png"/>
