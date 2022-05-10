@@ -10,7 +10,7 @@
 </br>
 <a href="www.linkedin.com/in/rustam-abbaszade-08b3671b4">
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>LINKEDIN</br>
-
+<a href="www.linkedin.com/in/rustam-abbaszade-08b3671b4" target="_blank"><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
 ✅ Skills: </br>
     <img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
     </n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
@@ -29,4 +29,4 @@
 
 </br></br>
 <img alt="Tensorflow" width="350px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-<a href="https://www.google.com/" target="_blank">Google</a>
+
