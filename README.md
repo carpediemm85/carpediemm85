@@ -9,7 +9,7 @@
 🎓 I studying in University (3/4). 💻 My major is Mechatronic and robotic engineering. 🔰 I also freelancer web developer...
 
 📬 HOW TO REACH ME:</s><a href="https://www.linkedin.com/in/rustam-abbaszade-08b3671b4/">
-<img alt="Tensorflow" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href = "mailto: rustamunnec@gmail.com"><img alt="Tensorflow" width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></br>
+<img alt="Tensorflow" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href = "mailto: rustamunnec@gmail.com"><img alt="Tensorflow" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></br>
 ## ✅Languages and Tools:</br>
 <pre>
     <img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>PYTHON (DJANGO)</br>
