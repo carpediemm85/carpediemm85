@@ -3,7 +3,7 @@
 
 <img align='right' alt="Tensorflow" width="150px" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
     </br>
-    <img alt="Tensorflow" width="20px" src="https://user-images.githubusercontent.com/71736644/167723157-014d57a2-1367-472a-91a7-fd16b9372183.png"/>
+    <img alt="Tensorflow" width="100px" src="https://user-images.githubusercontent.com/71736644/167723157-014d57a2-1367-472a-91a7-fd16b9372183.png"/>
     I'm Python developer.
 
 🎓 I studying in University (3/4). 💻 My major is Mechatronic and robotic engineering. 🔰 I also freelancer web developer...
