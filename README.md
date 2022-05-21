@@ -22,5 +22,5 @@
 ## 🎯TO-DO
 <pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. Trying push some repos. 
 </br></br>
-<img alt="Tensorflow" align ="right" width="30%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img alt="Tensorflow" align ="right" size="30%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
