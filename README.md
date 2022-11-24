@@ -18,8 +18,6 @@
 <img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> JS</br> 
 <img alt="Tensorflow" width="15px" src="https://user-images.githubusercontent.com/71736644/167723709-5618ce22-36f7-4d45-a548-621aea552f11.png"/> ANGULAR</br>
 </p></pre>
-<img alt="Tensorflow" width="15px" src="[https://user-images.githubusercontent.com/71736644/167723709-5618ce22-36f7-4d45-a548-621aea552f11.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)"/> React </br>
-</p></pre>
     
 ## 🎯TO-DO
 <pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. Trying push some repos. 
