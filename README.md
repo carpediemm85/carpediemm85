@@ -10,21 +10,21 @@
 
 📬 HOW TO REACH ME:</s><a href="https://www.linkedin.com/in/rustam-abbaszade-08b3671b4/">
 <img alt="Tensorflow" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href = "mailto: rustamunnec@gmail.com"><img alt="Tensorflow" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></br>
-## ✅Languages and Tools:</br>
+## ✅Languages and Tools:</br><br>
 
-<div><pre><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> PYTHON (DJANGO)</br> 
+
+<div><pre style='displayflex'><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> PYTHON (DJANGO)</br> 
 <img alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/> SQLITE</br>
 </n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/> HTML</br></dib>
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> CSS</br>
 <img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> JS</br> 
 
-<img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/> React</br>
-</p>
-</pre>
+<img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/> React</br></pre>
 
     
-## 🎯TO-DO
+## 🎯TO-DO<br><br>
 <pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. Trying push some repos. 
+...always learning
 </br></br>
 <img alt="Tensorflow" align ="right" size="30%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
