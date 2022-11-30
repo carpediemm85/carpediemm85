@@ -17,8 +17,7 @@
 </n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/> HTML</br></dib>
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> CSS</br>
 <img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> JS</br> 
-<img alt="Tensorflow" width="15px" src="https://user-images.githubusercontent.com/71736644/167723709-5618ce22-36f7-4d45-a548-621aea552f11.png"/> ANGULAR
-</p>
+
 <img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/> React</br>
 </p>
 </pre>
