@@ -1,30 +1,34 @@
-# Hi, I'm Rustam. 👋
-<img alt="Tensorflow" width="100%" src="https://user-images.githubusercontent.com/71736644/167738938-e4ac3010-e52e-42a8-a5d1-3e53a9c9b481.png"/>
+# Hi, I'm Rustam 👋
 
-<img align='right' alt="Tensorflow" width="150px" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"/>
-    </br>
-    
-<img alt="Tensorflow" width="14px" src="https://user-images.githubusercontent.com/71736644/167723157-014d57a2-1367-472a-91a7-fd16b9372183.png"/>I'm Python developer.
+![Profile banner](https://user-images.githubusercontent.com/71736644/167738938-e4ac3010-e52e-42a8-a5d1-3e53a9c9b481.png)
 
-🎓 I studying in University (4/4). 💻 My major is Mechatronic and robotic engineering. 🔰 I also freelancer web developer...
+<img align="right" alt="Developer animation" width="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-📬 HOW TO REACH ME:</s><a href="https://www.linkedin.com/in/rustam-abbaszada777?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">
-<img alt="Tensorflow" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href = "mailto: abbaszadarustam@gmail.com"><img alt="Tensorflow" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></br>
-## ✅Languages and Tools:</br><br>
+I'm a **Python developer** and **freelance web developer** with an interest in mechatronics and robotics.
 
+- 🎓 Fourth-year university student majoring in **Mechatronics and Robotics Engineering**.
+- 💻 Working with **Python, Django, and web technologies**.
+- 🌱 Always learning and building new projects.
 
-<div><pre style='displayflex'><img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> PYTHON (DJANGO)</br> 
-<img alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/> SQLITE</br>
-</n><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/> HTML</br></dib>
-<img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> CSS</br>
-<img alt="Tensorflow" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> JS</br> 
+## 📬 Get in touch
 
-<img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/> React</br></pre>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rustam-abbaszada777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaszadarustam@gmail.com)
 
-    
-## 🎯TO-DO<br><br>
-<pre><img alt="Tensorflow" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/> I’m currently working on my instagram bot. Trying push some repos. 
-...always learning
-</br></br>
-<img alt="Tensorflow" align ="right" size="30%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+## 🛠️ Languages and tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 🎯 What I'm working on
+
+- Building an **Instagram bot**.
+- Sharing more projects on GitHub.
+- Continuing to learn and improve my development skills.
+
+<img alt="Coding animation" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
