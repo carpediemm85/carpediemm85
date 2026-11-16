@@ -1,34 +1,41 @@
-# Hi, I'm Rustam 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Rustam Abbaszada — Python Developer · Web Developer. Building useful tools. Turning ideas into experiences.">
+</p>
 
-![Profile banner](https://user-images.githubusercontent.com/71736644/167738938-e4ac3010-e52e-42a8-a5d1-3e53a9c9b481.png)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rustam-abbaszada777"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=54e8ed" alt="LinkedIn"></a>
+  <a href="mailto:abbaszadarustam@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=c5a3ff" alt="Email"></a>
+</p>
 
-<img align="right" alt="Developer animation" width="150" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+I'm **Rustam**, a Python developer and freelance web developer with a background in **Mechatronics and Robotics Engineering**. I enjoy building practical tools and turning ideas into useful experiences.
 
-I'm a **Python developer** and **freelance web developer** with an interest in mechatronics and robotics.
+## Tech Stack
 
-- 🎓 Fourth-year university student majoring in **Mechatronics and Robotics Engineering**.
-- 💻 Working with **Python, Django, and web technologies**.
-- 🌱 Always learning and building new projects.
+<p>
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=54e8ed" alt="Python">
+  <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=54e8ed" alt="Django">
+  <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=54e8ed" alt="SQLite">
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=c5a3ff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=c5a3ff" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=c5a3ff" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=c5a3ff" alt="CSS3">
+</p>
 
-## 📬 Get in touch
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rustam-abbaszada777)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaszadarustam@gmail.com)
+<p align="center">
+  <img src="./assets/portwright.svg" width="49%" alt="PortWright — Design custom car-audio subwoofer enclosures, run acoustic calculations, and generate cutting plans for fabrication.">
+  <img src="./assets/lifewrapped.svg" width="49%" alt="LifeWrapped — In development. Turn photos, travels, and everyday data into personalized memory recaps, interactive 3D world maps, and visual stories.">
+</p>
 
-## 🛠️ Languages and tools
+### PortWright
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+An application for designing custom **car-audio subwoofer enclosures**, performing **acoustic calculations**, and generating **cutting plans for fabrication**.
 
-## 🎯 What I'm working on
+### LifeWrapped · In Development
 
-- Building an **Instagram bot**.
-- Sharing more projects on GitHub.
-- Continuing to learn and improve my development skills.
+An application that analyzes **photos, travels, and everyday life data** to create **personalized memory recaps**, **interactive 3D world maps**, and **visual stories**.
 
-<img alt="Coding animation" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+---
+
+<p align="center"><i>Code. Learn. Build. Repeat.</i></p>
